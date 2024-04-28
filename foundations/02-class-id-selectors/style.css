@@ -1,0 +1,21 @@
+.first,
+.third,
+.fifth {
+    background-color: #f1a7b4;
+    font-family: "Vardana" "DejaVu Sans" sans-serif;
+}
+
+.third {
+    font-size: 24px;
+}
+
+#second {
+    color: #4949d3;
+    font-size: 36px;
+}
+
+#fourth {
+    font-size: 24px;
+    font-weight: 700;
+    background-color: #51f3bd;
+}
